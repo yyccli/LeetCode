@@ -9,6 +9,7 @@ log记录了题目的思路和自己应该做的事情，就算是私人的无�
 # About Me
 
 CSU CS 2016-now
+
 SJTU CS start at 2020
 
 # Contact Me
